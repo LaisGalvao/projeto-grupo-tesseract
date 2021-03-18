@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: arial;
+}
+
+h1{
+    text-align: center;
+    margin-top: 20px;
+}
+
+h3{
+    text-align: center;
+    margin-top: 20px;
+}
+
+main{
+    width: 100%;
+    display: inline;
+    background: #e8e8e8;
+}
+
+img{
+    position: relative;
+    display: inline;
+    border-radius: 50%;
+    width: 15%;
+    margin-top: 15px;
+    margin-left: 55px;
+}
+
+h2{
+    margin-left: 25px;
+    justify-content: flex-end;
+    position: relative;
+    text-align: center;
+}
+
+article{
+    width: 30rem;
+    height: 10rem;
+    margin-top: 3rem;
+    margin-left: 400px;
+    margin-bottom: 5rem;
+    border: solid 1px #e8e8e8;
+    justify-content: center;
+    border-radius: 5%;
+}
+
+button{
+    width: 55px;
+    height: 50px;
+    margin-left: 90px;
+    justify-content: space-between;
+    position: relative;
+    background-image: url('icons8-github-50.png');
+    
+    
+}
+
+p{
+    text-align: justify;
+    margin-left: 20px;
+    font-weight: 400;
+}
+
+section{
+    position: absolute;
+    display: inline-flex;
+    justify-content: space-around;
+    align-items: left;
+    flex-direction: column;
+    background-color: #ffffff;
+    width: 22rem;
+    height: 20rem;
+    border: 1px solid lightgray;
+    border-radius: 5%;
+    margin-top: -120px;
+    margin-left: 100px;
+    z-index: 1;
+    color: black;
+}
+
+#busca{
+    width: 20rem;
+    height: 3rem;
+    margin-left: 500px;
+    margin-top: 30px;
+    border: solid 1px #e8e8e8;
+    border-radius: 8%;
+}
