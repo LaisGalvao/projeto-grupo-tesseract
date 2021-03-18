@@ -24,7 +24,7 @@ Ao clicar na própria caixa (ou fora dela), ela é fechada.
   
   
   
-  ![ezgif.com-gif-maker](C:\Users\Laís PC\Desktop\projeto-grupo-tesseract\ezgif.com-gif-maker.gif)
+  ![ezgif.com-gif-maker](https://github.com/LaisGalvao/projeto-grupo-tesseract/blob/main/ezgif.com-gif-maker.gif)
   
   
 
